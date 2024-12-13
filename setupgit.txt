@@ -1,2 +1,6 @@
 VCS first button
 Third button from the bottom
+
+
+
+чтобы открыть catez нужно нажать на орандж кнопку с верху питон прожект
