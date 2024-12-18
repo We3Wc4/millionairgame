@@ -159,3 +159,4 @@ mony.place(x=980,y=175)
 
 
 mainwindow.mainloop()
+e
